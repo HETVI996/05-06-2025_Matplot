@@ -1,3 +1,3 @@
-# TODO:
+## TODO:
 
-## Explore Matplot
+# Explore Matplot
